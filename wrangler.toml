@@ -11,3 +11,5 @@ workers_dev = true
 # routes = [
 #   { pattern = "your-domain.com/*", zone_name = "your-domain.com" }
 # ]
+# wrangler.toml
+name = 'any-proxy'
